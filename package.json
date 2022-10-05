@@ -7,6 +7,8 @@
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
     "bootstrap": "^5.2.2",
+    "bootstrap-icons": "^1.9.1",
+    "framer-motion": "^7.5.2",
     "idyll-components": "^6.0.0-alpha.2",
     "idyll-document": "^4.0.0-alpha.4",
     "react": "^18.2.0",
@@ -37,5 +39,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "sass": "^1.55.0",
+    "sass-loader": "^10.3.1"
   }
 }

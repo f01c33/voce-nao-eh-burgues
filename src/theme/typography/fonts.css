@@ -1,0 +1,24 @@
+@font-face {
+    font-family: 'Snowstorm';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Snowstorm'), url('../../fonts/Snowstorm.otf') format('opentype');
+}
+
+@font-face {
+    font-family: 'Snowstorm Bold';
+    font-style: bold;
+    font-weight: normal;
+    src: local('Snowstorm Bold'), url('../../fonts/Snowstorm Bold.otf') format('opentype');
+}
+
+.stylized-font {
+    font-family: 'Snowstorm';
+    font-style: normal;
+}
+
+.stylized-font-bold {
+    font-family: 'Snowstorm Bold';
+    font-style: bold;
+}
+
